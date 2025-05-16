@@ -1,11 +1,6 @@
-Here’s your cleaned-up and fully formatted `README.md`, ready for GitHub. I’ve fixed indentation, markdown formatting, and code blocks to ensure it's readable and professional on GitHub.
-
----
-
-```markdown
 # 🧠 AI Data Agent – Internship Challenge
 
-> A smart AI-powered conversational agent that answers **complex business questions** from a SQL database using natural language and auto-generated charts & tables.
+> A smart AI-powered conversational agent that answers complex business questions from a SQL database using natural language and auto-generated charts & tables.
 
 ![License](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Built With](https://img.shields.io/badge/stack-React%2C%20Node.js%2C%20SQLite-blue)
@@ -58,10 +53,10 @@ ai-data-agent/
 
 ## 🧠 Features
 
-- ✅ Ask **vague or complex business questions**
-- ✅ Handles **bad schema** and **messy table/column names**
-- ✅ Generates **natural language answers**
-- ✅ Displays **charts and tables**
+- ✅ Ask vague or complex business questions
+- ✅ Handles bad schema and messy table/column names
+- ✅ Generates natural language answers
+- ✅ Displays charts and tables
 - ✅ Real-time answers using OpenAI + SQLite
 
 ---
@@ -155,7 +150,7 @@ graph TD
 
 ## 🧑‍💻 Author
 
-**Mahboob Alam**
+Mahboob Alam
 📧 [ma.mahboob2002@gmail.com](mailto:ma.mahboob2002@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/mahboob-alam-242342152/)
 
@@ -164,4 +159,3 @@ graph TD
 ## 🌟 Star the Repo
 
 If you found this useful, consider giving it a ⭐️ on GitHub. It really helps!
-
