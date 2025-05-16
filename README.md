@@ -9,14 +9,13 @@
 
 ## 📸 Demo
 
-![demo](screenshots/demo.png) <!-- Add your own screenshot in a "screenshots" folder -->
+![demo]..........................
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 [View Live App](https://your-deployed-url.com)  
-(Replace this with your deployed app link if available)
+🌐 [View Live App].............
 
 ---
 
